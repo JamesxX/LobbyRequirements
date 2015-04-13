@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/errolliamp/super_smash_bros_brawl/red_alloy/fitzakoboy01"
+	$alphatest "0"
+	$translucent "1"
+
+	$halflambert 1
+	$diffuseexp 1.5
+
+ 	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"3.5"
+	"$phongfresnelranges"	"[0.02 4 2]"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1" 
+	"$rimlightexponent" "0.5" 
+	"$rimlightboost" "1.5" 
+	"$rimmask" 1	
+}
