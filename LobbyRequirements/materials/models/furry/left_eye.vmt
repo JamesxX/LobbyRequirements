@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/furry/left_eye"
+
+	"$nocull" "1"
+
+"$blendtintbybasealpha" "1" 
+"$blendtintcoloroverbase" "0"
+
+Proxies
+{
+PlayerColor
+{
+resultVar	$color2
+default 0.75 0.75 0.75
+}
+}

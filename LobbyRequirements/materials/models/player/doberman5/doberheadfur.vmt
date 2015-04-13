@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/doberman5/doberheadfur"
+                $nocull 1
+
+
+   
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".05"	
+
+ //	"$blendtintbybasealpha" "0" 
+ //	"$blendtintcoloroverbase" "1"  
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" ".2"
+
+	}
+

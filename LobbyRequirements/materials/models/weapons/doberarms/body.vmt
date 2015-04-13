@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/doberarms/body"
+                "$bumpmap" "models/weapons/doberarms/body_n"
+
+}

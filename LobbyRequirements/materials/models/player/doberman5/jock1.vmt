@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/doberman5/jock1"
+$nocull 1
+         
+
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/doberman5/cargoshorts"
+                "$bumpmap"       "models/player/doberman5/cargoshortsN"
+                 "$model"                    "1"
+                 "$nocull" "1"
+}

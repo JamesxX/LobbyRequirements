@@ -1,0 +1,10 @@
+"Refract"
+{
+	"$normalmap" "Glas/glas_2"
+	"$dudvmap" "Glas/glas_2"
+	"$surfaceprop" 		"Glass"
+	"%keywords"		"glas"	
+	"$refractamount" 		"0.01"
+	"$refracttint" 		"[0.651 0.745 0.945]"
+	"$bluramount" 		"0"
+}

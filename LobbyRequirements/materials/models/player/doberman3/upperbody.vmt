@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/doberman3/upperbody"
+                "$bumpmap" "models/player/doberman3/upperbody_n"
+
+ "$phong" "1" 
+"$phongboost" "0.1"
+"$phongexponent" 15 
+"$phongfresnelranges" "[0.25 1.1 1]"
+
+}
