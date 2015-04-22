@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/husky/huskylegs"
+//                "$bumpmap" "models/player/husky/huskylegsN"
+
+
+
+//"$selfillum" 1 
+//"$selfillummask" "models/husky/huskypupheadG" 
+
+
+}

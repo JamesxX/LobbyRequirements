@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/husky/pawpad"
+//                "$bumpmap"       "models/player/husky/baggyjeansN"
+                 "$model"                    "1"
+                 "$nocull" "1"
+                 "$selfillum" 1 
+}

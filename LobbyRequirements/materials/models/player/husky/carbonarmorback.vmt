@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/husky/carbonarmorback"
+                "$bumpmap"       "models/player/husky/carbonarmorbackN"
+                 "$model"                    "1"
+                 "$nocull" "1"
+}

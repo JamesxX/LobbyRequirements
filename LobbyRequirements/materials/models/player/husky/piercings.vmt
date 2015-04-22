@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/husky/piercings"
+$envmap			env_cubemap
+$envmapmask "models/player/husky/piercingsE"
+
+}

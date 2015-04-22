@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/husky/jockstrap"
+                "$bumpmap" "models/player/husky/jockstrapN"
+$nocull 1 
+}
