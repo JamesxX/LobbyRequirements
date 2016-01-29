@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/player/zebra/santahat"
-                "$bumpmap"       "models/player/zebra/santahatN"
-
-}

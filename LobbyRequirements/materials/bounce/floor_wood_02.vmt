@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bounce/floor_wood_02"
+	"$normalmap" "bounce/floor_wood_01_N"
+	"$bumpmap" "bounce/floor_wood_01_SSBump"
+	
+	$ssbump 1
+	$envmap env_cubemap
+	$envmaptint "[0.2 0.2 0.2]"
+}

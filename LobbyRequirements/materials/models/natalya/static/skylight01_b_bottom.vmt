@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models\natalya\static\skylight01_b_bottom"
+$envmap env_cubemap
+$envmapmask "models\natalya\static\skylight01_bottom_ref"
+}

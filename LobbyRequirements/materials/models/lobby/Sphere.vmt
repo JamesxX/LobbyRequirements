@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lobby/Sphere"
+	"$translucent" 1
+	"$vertexalpha" 1
+}

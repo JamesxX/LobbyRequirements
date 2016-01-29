@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/player/husky/huskyeye"
-$selfillum 1
-$selfillummask "models/player/husky/huskyeyeG"
-$nocull 1
-         
-
-}

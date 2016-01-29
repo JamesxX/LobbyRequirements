@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/player/husky/longsleeveshirt"
-                "$bumpmap" "models/player/husky/longsleeveshirtN"
-$nocull 1 
-}

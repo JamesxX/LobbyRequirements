@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/natalya/static/wnd_gls_02"
+	"$surfaceprop"	"glass"
+	"$translucent"	"1"
+	"$envmap" "env_cubemap"
+	"$envmapmask"			"models/natalya/static/white"
+	"$envmaptint"			"[.4 .4 .6]"
+	"$nodecal" "1"
+	"$nolod" "1"
+}

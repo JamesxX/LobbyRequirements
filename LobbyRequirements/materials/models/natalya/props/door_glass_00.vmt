@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models/natalya/props/door_glass_00"
+	"$envmap" 		"env_cubemap"
+	"$envmaptint"		"[.3 .3 .3]"
+	"$surfaceprop"		"glass"
+	"$translucent"		"1"
+}

@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/props_jorpakko/mountain_birch_leaves"
-	"$alphatest" 1
-	"$nocull" 1
-}

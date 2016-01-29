@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/player/doberman3/body"
-                "$bumpmap" "models/player/doberman3/body_n"
-
-}

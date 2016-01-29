@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/lobby/desk2/reflectivity_90b"
+	"$surfaceprop" "concrete"
+	"$model" 1
+}

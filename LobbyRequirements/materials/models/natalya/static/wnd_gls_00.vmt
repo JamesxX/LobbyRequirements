@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/natalya/static/wnd_gls_00"
+	"$translucent" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint"			"[.20 .20 .20]"
+}

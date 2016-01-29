@@ -1,5 +1,11 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "lobby/marble_03"
-	"$surfaceprop" "Concrete"
+	"$bumpmap" "lobby/marble_03_SSBump"
+	"$envmap" "env_cubemap"
+	"$normalmap" "lobby/marble_03_N"
+	"$surfaceprop" "Tile"
+
+	$ssbump 1
+	$envmaptint "[0.1 0.1 0.1]"
 }

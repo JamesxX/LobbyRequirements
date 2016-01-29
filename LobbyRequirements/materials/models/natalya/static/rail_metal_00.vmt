@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/natalya/static/rail_metal_00"
+	"$envmap" "env_cubemap"
+	"$envmaptint"			"[.16 .16 .16]"
+}
