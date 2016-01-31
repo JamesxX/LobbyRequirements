@@ -1,12 +1,11 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "lobby/plaster_01"
-	"$bumpmap" "lobby/plaster_01_ssbump"
-	"$normalmap" "lobby/plaster_01_N"
 	"$basetexturetransform" "center .5 .5 scale 4 4 rotate 0 translate 0 0"
-	
+	"$bumpmap" "lobby/plaster_01_ssbump"
 	"$envmap" "env_cubemap"
+	"$normalmap" "lobby/plaster_01_N"
 	"$surfaceprop" "Concrete"
-	$envmaptint "[0.0075 0.0075 0.0075]"
-	$ssbump 1
+	"$envmaptint" "[0.0075 0.0075 0.0075]"
+	"$ssbump" "1"
 }

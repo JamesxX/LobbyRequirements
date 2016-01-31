@@ -4,6 +4,6 @@
 	"$envmap" 		"env_cubemap"
 	"$surfaceprop"		"glass"
 	"$translucent"		"1"
-	"$envmapmask"			"models/natalya/static/white"
+	//"$envmapmask"			"models/natalya/static/white"
 	"$envmaptint"			"[.6 .6 .6]"
 }

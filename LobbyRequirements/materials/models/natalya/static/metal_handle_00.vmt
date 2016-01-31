@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/natalya/static/metal_handle_00"
+	"$envmap" 	"env_cubemap"
+	"$envmaptint"	"[.1875 .1875 .1875]"
+	"$surfaceprop"	"metal"
+}
