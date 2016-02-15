@@ -1,0 +1,10 @@
+{
+	"title"		: "GMLobby Incoming Content",
+	"type"		: "ServerContent",
+	"tags"		: [ "fun", "cartoon" ],
+	"ignore"	: [
+		"*.txt",
+		"*.png",
+		"*.ztmp"
+	]
+}
